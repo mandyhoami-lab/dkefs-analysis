@@ -29,6 +29,7 @@ orthonormal contrasts to reproduce .5255.
 - `dkefs_repeated_measures_anova.R` — analysis script (base R only, no extra packages). Reconstructed to reproduce the verified results; run it yourself and confirm the printed values match.
 - `Fall_26_Experiment_1_Data_Set_Sheet1.csv` — raw dataset
 - `condition-means.png` — condition means plot
+- `Ta_PSY410_Experiment1.tex` — LaTeX edition of the course paper (APA student manuscript, `apa7` class). Prose matches the submitted Word manuscript; includes Table 1, Figure 1 (`condition-means.png`), and references. Compile with `pdflatex` (twice, for cross-references); requires the `apa7` document class.
 
 ## Usage
 
